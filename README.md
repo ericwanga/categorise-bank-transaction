@@ -1,12 +1,12 @@
 # Categorise Bank Transaction
 
-For privacy reason, data is not included.
+For privacy reason, data is not included
 
 
 
-Please refer to `ipynb` for development details. 
+Please refer to `ipynb` for development details
 
-- Floating TOC (Table of Contents) is included for easy view of the notebook, but depend on your local Jupyter notebook environment, it might not display if relevant extensions were not previously installed. However, this does not affect the development work itself.
+- Floating TOC (Table of Contents) is included for easy view of the notebook, but depending on your local Jupyter notebook environment, it might not display if relevant extensions were not previously installed. However, this does not affect the development work itself
 
 `img` contains images linked to the notebook
 
